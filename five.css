@@ -1,0 +1,15 @@
+table{
+    background-color: black;
+    border-collapse: collapse;
+}
+th{
+    color: chocolate;
+    border: solid blue;
+}
+td{
+    color: white;
+    border: solid blue
+}
+tr{
+    border: solid blue
+}

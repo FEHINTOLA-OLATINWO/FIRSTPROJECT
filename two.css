@@ -1,0 +1,13 @@
+.mother{
+    background-color: peru;
+    width: 60%;
+    display: flex;
+}
+.child_1{
+    background-color: aquamarine;
+    width: 40%;
+}
+.child_2{
+    background-color: aqua;
+    width: 40%;
+}

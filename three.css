@@ -1,0 +1,111 @@
+/* .one{
+    background-color:seashell;
+}
+.parent{
+    background-color: cadetblue;
+    margin-bottom: 30px;
+    padding-top: 20px;
+}
+.child{
+    background-color: aquamarine;
+    padding-left: 20px;
+    margin-right: 10px;
+}
+button{
+    margin-left: 40px;
+    margin-bottom: 20px;
+    background-color: greenyellow;
+    border: none;
+    border-radius: 5px;
+}
+.flex{
+    display: flex;
+} */
+.one{
+    background-color: cornsilk;
+    padding: 30px;
+}
+.parent{
+    background-color: cadetblue;
+    padding: 30px;
+    width: 50%
+}
+.child{
+    background-color: cornflowerblue;
+    padding: 30px;width: 50%
+}
+.flex{
+    display: flex;
+    max-width: 100%;
+}
+button{
+    margin-left: 40px;
+    margin-bottom: 20px;
+    background-color: greenyellow;
+    border: none;
+    border-radius: 5px;
+}
+
+.newdiv{
+    display: grid;
+    background-color: gold;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    box-flex-group: 1fr 1fr;
+}
+.div1{
+    width: 5%;
+    background-color: coral;
+}
+.div2{
+    width: 5%;
+    background-color: cornflowerblue;
+}
+.div3{
+    width: 5%;
+    background-color: darkkhaki;
+}
+.div4{
+    width: 5%;
+    background-color: deeppink;
+}
+.div4{
+    width: 5%;
+    background-color: indigo;
+}
+.div5{
+    width: 5%;
+    background-color: chartreuse;
+}
+.div6{
+    width: 5%;
+    background-color: darkslategray;
+}
+.div7
+{
+    width: 5%;
+    background-color: darkred;
+}
+.div8{
+    width: 5%;
+    background-color: sienna;
+}
+.div9{
+    width: 5%;
+    background-color: black;
+}
+.div10{
+    width: 5%;
+    background-color: darkmagenta;
+}
+.div11{
+    width: 5%;
+    background-color: darkturquoise;
+}
+.div12{
+    width: 5%;
+    background-color: greenyellow;
+}
+.div13{
+    width: 5%;
+    background-color: saddlebrown;
+}

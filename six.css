@@ -1,0 +1,52 @@
+table{
+    width: 15cm;
+}
+.head{
+   height: 2cm;
+}
+.body{
+    height: 4cm;
+    color: beige;
+}
+.yellow{
+background-color: darkgoldenrod;
+}
+.pink{
+    background-color: darkmagenta;
+}
+.orange{
+    background-color: darkorchid
+}
+.wine{
+    background-color: chartreuse
+}
+.lime{
+    background-color: aqua;
+}
+.purple{
+    background-color: cornflowerblue;
+}
+.blue{
+    background-color: gold;
+}
+.red{
+    background-color: firebrick;
+}
+.violet{
+    background-color: seagreen;
+}
+.skyblue{
+    background-color: black;
+}
+.brown{
+    background-color: aquamarine;
+}
+.lemon{
+    background-color: lightslategrey;
+}
+.acid{
+    background-color: fuchsia;
+}
+.dog{
+    background-color: gray;
+}

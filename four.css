@@ -1,0 +1,15 @@
+table{
+    border-collapse: collapse;
+    width: 15cm;
+    height: 8cm;
+    text-align: center;
+}
+.odd{
+    background-color: azure;
+}
+tr{
+    border: solid;
+}
+th,td{
+    border: solid;
+}
